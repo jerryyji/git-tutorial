@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello" << endl;
+    cout << "Hello, I like dorayaki (japanese red bean pancake)" << endl;
 
     return 0;
 }
